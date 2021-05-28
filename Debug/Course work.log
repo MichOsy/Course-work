@@ -1,0 +1,9 @@
+﻿  ConsoleApplication.cpp
+C:\Users\Predator\Desktop\Лаборатрки\Лабки прога\Course\Course work\ConsoleApplication.cpp(71,26): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Predator\Desktop\Лаборатрки\Лабки прога\Course\Course work\ConsoleApplication.cpp(210,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator\Desktop\Лаборатрки\Лабки прога\Course\Course work\ConsoleApplication.cpp(287,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Predator\Desktop\Лаборатрки\Лабки прога\Course\Course work\ConsoleApplication.cpp(399,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Predator\Desktop\Лаборатрки\Лабки прога\Course\Course work\ConsoleApplication.cpp(522,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+  Создание кода...
+  Course work.vcxproj -> C:\Users\Predator\Desktop\Лаборатрки\Лабки прога\Course\Course work\Debug\Course work.exe
